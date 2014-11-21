@@ -8,6 +8,6 @@
 
 <!DOCTYPE HTML>
 <html>
-<body>${command}
+<body>${sessionScope.name}
 </body>
 </html>
